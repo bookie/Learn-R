@@ -9,4 +9,7 @@
 ## R Markdown
 Example of R Markdown (<http://jeromyanglim.blogspot.hk/2012/05/getting-started-with-r-markdown-knitr.html>)
 
+### Equations in R Markdown
+LaTeX/Mathematics (<http://en.wikibooks.org/wiki/LaTeX/Mathematics>)
+
 [R]: http://www.r-project.org/
