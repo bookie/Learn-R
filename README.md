@@ -21,6 +21,9 @@ Example of R Markdown (<http://jeromyanglim.blogspot.hk/2012/05/getting-started-
 ### Equations in R Markdown
 LaTeX/Mathematics (<http://en.wikibooks.org/wiki/LaTeX/Mathematics>)
 
+### Google Charts Examples
+google-motion-charts-with-r (<https://code.google.com/p/google-motion-charts-with-r/>)
+
 ## Books
 * [The R Book](http://www.kharms.biology.lsu.edu/CrawleyMJ_TheRBook.pdf)
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
