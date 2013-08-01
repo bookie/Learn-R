@@ -12,4 +12,7 @@ Example of R Markdown (<http://jeromyanglim.blogspot.hk/2012/05/getting-started-
 ### Equations in R Markdown
 LaTeX/Mathematics (<http://en.wikibooks.org/wiki/LaTeX/Mathematics>)
 
+## Books
+* [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+
 [R]: http://www.r-project.org/
