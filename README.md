@@ -13,7 +13,7 @@ Example of R Markdown (<http://jeromyanglim.blogspot.hk/2012/05/getting-started-
 LaTeX/Mathematics (<http://en.wikibooks.org/wiki/LaTeX/Mathematics>)
 
 ## Books
-* [The R Book](www.kharms.biology.lsu.edu/CrawleyMJ_TheRBook.pdf)
+* [The R Book](http://www.kharms.biology.lsu.edu/CrawleyMJ_TheRBook.pdf)
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 
 [R]: http://www.r-project.org/
