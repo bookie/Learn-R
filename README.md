@@ -6,6 +6,15 @@
 * R for Windows (<http://cran.rstudio.com/>)
 * RStudio Desktop (<http://www.rstudio.com/ide/download/desktop>)
 
+### Packages
+
+* [googleVis](http://cran.r-project.org/web/packages/googleVis/index.html)
+> Interface between R and the Google Chart Tools
+
+* [knitr](http://cran.r-project.org/web/packages/knitr/index.html)
+> A general-purpose package for dynamic report generation in R
+
+
 ## R Markdown
 Example of R Markdown (<http://jeromyanglim.blogspot.hk/2012/05/getting-started-with-r-markdown-knitr.html>)
 
